@@ -1,0 +1,7 @@
+Hamed Shabani:
+  name        : "Hamed Shabani"
+  bio         : "Neuroscientist"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hamedshabani@gmail.com"
